@@ -17,7 +17,7 @@
 
 ## 📌 Pinned Projects
 
-- 🔗 [Quiz App (React)](https://github.com/praanesh06/quizApp)
+- 🔗 [Finance Tracker](https://github.com/praanesh06/quizApp)
 
 ---
 
