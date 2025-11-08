@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Nithyasree
 
-<!--
-**Nithyasreepadmanabhan/Nithyasreepadmanabhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc SS | 📍 Sri Krishna Arts and Science College  
+🧠 Learning: Web Development | Multimodal AI 
+📈 Aspiring Software Engineer | Full Stack Developer 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- 💻 **Languages**: Python, Java, C, C++
+- 🌐 **Frontend**: HTML, CSS, Bootstrap, React(learning) 
+- 🛠️ **Backend**: Flask, Django(learning)  
+- 🗃️ **Databases**: SQLite
+
+---
+
+## 📌 Pinned Projects
+
+- 🔗 [Quiz App (React)](https://github.com/praanesh06/quizApp)
+
+---
+
+## 📈 GitHub Stats
+
+![Nithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithyasreepadmanabhan&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+- [📄 LinkedIn](https://www.linkedin.com/in/nithyasree-ananthapadmanabhan-127488364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<!--- [🌍 Portfolio](https://your-portfolio.com) <!-- Replace this with your real portfolio link -->
