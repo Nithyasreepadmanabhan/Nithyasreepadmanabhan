@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nithyasree
 
 🎓 B.Sc SS | 📍 Sri Krishna Arts and Science College  
-🧠 Learning: Web Development | Multimodal AI
+🧠 Learning: Web Development | Multimodal AI   
 📈 Aspiring Software Engineer | Full Stack Developer 
 
 ---
