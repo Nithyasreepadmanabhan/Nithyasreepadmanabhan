@@ -17,7 +17,6 @@
 
 ## 📌 Pinned Projects
 
-- 🔗 [Finance Tracker](https://github.com/praanesh06/quizApp)
 
 ---
 
